@@ -12,7 +12,7 @@ Valine 诞生于2017年8月7日，是一款基于[Leancloud](https://leancloud.c
 
 ## 特性
 
-- 快速
+- 快速（Fast）
 - 安全
 - Emoji 😉
 - 无后端实现
